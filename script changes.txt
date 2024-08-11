@@ -1,0 +1,129 @@
+
+[id|="screen"] .bs-button.center {
+  /* top: 40px; */
+  top: 43px;
+}
+
+.evidence-list .evidence_display .details .description {
+  /* border: 1px solid #735A42; */
+  /* background: #847342; */
+  /* color: white; */
+  background: #fff;
+  color: #2d3068;
+}
+
+a.courtrecord-switchview {
+  /* background-color: #8C481B; */
+  background-color: #E8D64A;
+}
+
+.courtrecord-header {
+  /* border-bottom: 1px solid #484848; */
+  border-bottom: 1px solid #2d3068;
+}
+
+#player_debug .h3 {
+  /* color: #782201; */
+  color: #383b6f;
+}
+
+.evidence-list .evidence_display .details .description {
+  /* color: #2d3068; */
+  color: #2c2e55;
+}
+
+
+.evidence_display > .summary > .civil_status {
+  /* background: #9CCE94; */
+  /* color: black; */
+  background: #FFF;
+  color: #2d3068;
+}
+
+.evidence_display > .summary {
+  /* border-bottom: 6px solid #CECECE; */
+  /* border-top: 6px solid #CECECE; */
+  /* background: #847342; */
+  border-bottom: 6px solid #E8D64A;
+  border-top: 6px solid #E8D64A;
+  background: #2d3068;
+}
+
+.evidence_display > .summary > .name {
+  /* background: #393939; */
+  /* color: #FFAD18; */
+  background: #2d3068;
+  color: #FFF;
+}
+
+.evidence_display > .summary {
+  /* border-bottom: 6px solid #E8D64A; */
+  /* border-top: 6px solid #E8D64A; */
+  /* background: #2d3068; */
+  border-bottom: 6px solid #2D3068;
+  border-top: 6px solid #2D3068;
+  background: #e8d64a;
+}
+
+header h1, header h2 {
+  /* color: #782201; */
+  color: #fff;
+}
+
+header h1 {
+  /* font: 24px Georgia, serif; */
+}
+
+header.compact {
+  /* background-color: #F0F0F0; */
+  /* background-image: linear-gradient(white, rgba(255,255,255,0)); */
+  background-color: #2d3068;
+  background-image: linear-gradient(#2d3068, rgba(255,255,255,0));
+}
+
+a {
+  /* text-decoration: none; */
+  text-decoration: mediumslateblue;
+}
+
+button, a.button, input[type="button"], input[type="submit"] {
+  /* background-color: #8C481B; */
+  background-color: #E8D64A;
+}
+
+h1, h2, h3, h4 {
+  /* color: #782201; */
+  color: #2d3068;
+}
+
+button, a.button, input[type="button"], input[type="submit"] {
+  /* background-color: #E8D64A; */
+  background-color: #E9D749;
+}
+
+[id|="screen"] .buttonbar-bottom {
+  /* background: #DFDFDF; */
+  /* border-top: 1px solid #959595; */
+  background: #2D3068;
+  border-top: 1px solid #e8d64a;
+}
+
+#options a, #inputs input {
+  /* border-color: #D6AD9C; */
+  /* border-radius: 4px; */
+  /* color: #7B2900; */
+  border-color: #E1CE52;
+  border-radius: 36px;
+  color: #292A59;
+}
+
+
+div.textbox .dialogue {
+  /* min-height: 52px; */
+  min-height: 20px;
+}
+
+div.textbox .dialogue {
+  /* min-height: 20px; */
+  min-height: 38px;
+}
